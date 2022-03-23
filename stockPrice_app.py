@@ -14,6 +14,7 @@ import pandas as pd
 import numpy as np
 from datetime import date
 import datetime
+import sklearn
 from sklearn.model_selection import train_test_split
 from sklearn.svm import SVR
 import streamlit as st
